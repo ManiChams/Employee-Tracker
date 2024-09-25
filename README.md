@@ -7,9 +7,9 @@ Employee-Tracker is a command-line application that manages a company's employee
 - [Installation](#installation)
 - [Usage](#usage)
 - [Database Schema](#database-schema)
-- [Video Demo](#video-demo)
-- [License](#license)
-- [Author](#author)
+- [Video Demo](https://drive.google.com/drive/folders/1_hlSG-F-nBRArO0Q-6uLRDpPYiWSOp0-?usp=drive_link)
+- [License](#MIT)
+- [Author](Kimani Chambliss)
 
 ## Installation
 
